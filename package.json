@@ -14,7 +14,7 @@
     }
   },
   "dependencies": {
-    "elastic-builder": "^0.5.0",
+    "elastic-builder": "^2.2.0",
     "elasticsearch": "^13.2.0",
     "xcraft-core-goblin": "^2.0.0"
   },
