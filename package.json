@@ -16,7 +16,7 @@
   "dependencies": {
     "elastic-builder": "^2.3.0",
     "elasticsearch": "^15.4.1",
-    "xcraft-core-goblin": "^3.0.0"
+    "xcraft-core-goblin": "^4.0.1"
   },
   "devDependencies": {
     "prettier": "2.0.4",
