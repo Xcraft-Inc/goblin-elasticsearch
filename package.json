@@ -1,6 +1,6 @@
 {
   "name": "goblin-elasticsearch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Elastic Search for goblins",
   "main": "lib/builders.js",
   "scripts": {
