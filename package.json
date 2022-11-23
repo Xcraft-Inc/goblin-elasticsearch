@@ -16,7 +16,7 @@
   "dependencies": {
     "elastic-builder": "^2.3.0",
     "elasticsearch": "^15.4.1",
-    "goblin-workshop": "^2.0.0",
+    "goblin-workshop": "^3.0.0",
     "lodash": "^4.17.20",
     "xcraft-core-etc": "^3.0.0",
     "xcraft-core-goblin": "^5.0.0"
