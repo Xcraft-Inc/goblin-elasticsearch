@@ -1,0 +1,9 @@
+[
+  {
+    "Module": "goblin-elasticsearch",
+    "Version": "v2.1.5",
+    "Hash": "973d2f0",
+    "Dev": "master",
+    "Prod": "2.1"
+  }
+]
